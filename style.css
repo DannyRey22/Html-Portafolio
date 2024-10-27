@@ -1,0 +1,13 @@
+img{
+    height: 200px;
+    width: 240px;
+}
+#main-title{
+    color: rgb(200, 0, 255);
+}
+#sub-title{
+    color: rgb(133, 235, 110);
+}
+.title{
+    text-align: center;
+}
