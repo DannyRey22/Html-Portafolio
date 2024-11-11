@@ -1,0 +1,35 @@
+body{
+    background-color: #FFF6E3;
+}
+img{
+    height: 200px;
+    width: 240px;
+    padding: 5px;
+}
+#main-title{
+    color: #CDC1FF;
+    text-align: center;
+    border: solid;
+    margin: 0%;
+    font-size: 3rem;
+}
+#sub-title{
+    color: #789DBC;
+    text-align: center;
+    border: solid;
+    margin: 0%;
+}
+.viñeta{
+    color: #789DBC;
+}
+a{
+    color: #789DBC;
+    text-decoration-line: none;
+}
+img{
+    border: 5px solid #aec794;
+}
+ul{
+    list-style-type: japanese-formal;
+    font-weight: bold;
+}
